@@ -6,7 +6,7 @@ Other benefits that come with running pipelines incude:
 <li>Easier to production
 </ol>
 
-In this repository you'll be shown a simple way to develop a pipeline, I use the pipeline to run a RandomForestREGRESSOR. The major steps highighted are;
+This repository demonstrate a simple way to develop a pipeline, I use the pipeline to run a RandomForestREGRESSOR. The major steps highighted are;
 <ul>
 <li>Defining preprocessing stage
 <li> Defining the model
